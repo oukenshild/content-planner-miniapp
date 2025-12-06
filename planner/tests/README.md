@@ -36,3 +36,4 @@ pytest planner/tests/test_posts.py::test_create_post
 - `test_calendar.py` - тесты календаря
 - `conftest.py` - общие фикстуры для тестов
 
+

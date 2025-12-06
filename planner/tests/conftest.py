@@ -8,3 +8,4 @@ def client():
     """Фикстура для тестового клиента FastAPI"""
     return TestClient(app)
 
+

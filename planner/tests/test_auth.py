@@ -33,3 +33,4 @@ def test_verify_init_data_missing_token():
         result = verify_init_data("hash=test&user=test")
         assert isinstance(result, bool)
 
+

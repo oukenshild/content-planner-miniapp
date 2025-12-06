@@ -96,3 +96,4 @@ pytest planner/tests/test_posts.py::test_create_post -v
 - Тесты бота не требуют реального токена Telegram
 - Все тесты изолированы и могут запускаться параллельно
 
+

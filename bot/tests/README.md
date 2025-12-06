@@ -29,3 +29,4 @@ pytest bot/tests/test_bot.py::test_start_command
 
 Тесты используют моки для изоляции от реального Telegram API и не требуют реального токена бота.
 
+
