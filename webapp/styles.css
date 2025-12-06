@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: var(--tg-theme-bg-color,#111); color: var(--tg-theme-text-color,#fff); }
+main { padding: 16px; }
+header { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:12px; }
+#filters { display:flex; gap:8px; }
+.card { background: var(--tg-theme-section-bg-color,#1c1c1c); padding:12px; border-radius:12px; margin-bottom:8px; }
+.card h3 { margin: 0 0 6px; font-size: 16px; }
+.card .meta { opacity:.7; font-size:12px; margin-top:6px; }
+button { padding:8px 12px; border-radius:10px; border:0; background: var(--tg-theme-button-color,#2ea44f); color: var(--tg-theme-button-text-color,#fff); }
+select { padding:6px 8px; border-radius:8px; border:1px solid #333; background:#111; color:#fff; }
